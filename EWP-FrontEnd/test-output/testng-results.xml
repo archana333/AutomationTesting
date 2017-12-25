@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49713" started-at="2017-12-24T23:23:24Z" finished-at="2017-12-24T23:24:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49713" started-at="2017-12-24T23:23:24Z" finished-at="2017-12-24T23:24:14Z">
+      <class name="TestCases.TC_001_LogInFunctionality">
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:TestCases.TC_001_LogInFunctionality@4501b7af]" name="initiateDriverInstance" is-config="true" duration-ms="45218" started-at="2017-12-25T04:53:24Z" finished-at="2017-12-25T04:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="LogInFunctionality()[pri:0, instance:TestCases.TC_001_LogInFunctionality@4501b7af]" name="LogInFunctionality" duration-ms="1731" started-at="2017-12-25T04:54:09Z" finished-at="2017-12-25T04:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInFunctionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:TestCases.TC_001_LogInFunctionality@4501b7af]" name="closeDriverInstance" is-config="true" duration-ms="2716" started-at="2017-12-25T04:54:11Z" finished-at="2017-12-25T04:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- TestCases.TC_001_LogInFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
